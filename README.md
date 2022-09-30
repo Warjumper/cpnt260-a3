@@ -2,7 +2,7 @@
 ## Assignment 3 - 404 Page not found
 #### By Jesse Horner
 
-### GH Pages site - 
+### GH Pages site - https://warjumper.github.io/cpnt260-a3/
 
 #### Code Attributions;
 - Typed alongside this video for the nav bar (with some changes of my own)
